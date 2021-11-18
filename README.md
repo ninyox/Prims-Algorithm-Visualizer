@@ -3,7 +3,7 @@ To access the visualization, please follow the link below:
 
 https://ldantas05.github.io/Prims-Algorithm-Visualizer/
 
-All input files are included in the link, as well as on the SCC. To build this from scratch, with just the provided files. Please take PrimNode.js, Prims.js, index.html, sketch.js and style.css and input them into p5.js. Now to build this visualization simply click the play button at the top left of the screen. 
+To build this from scratch, with just the provided files. Please take PrimNode.js, Prims.js, index.html, sketch.js and style.css and input them into p5.js. Now to build this visualization simply click the play button at the top left of the screen. 
 
 If you would rather run it locally navigate to the directory of the source files with your terminal program and run a local server. The easiest way to do this is by running: 
 php -S 127.0.0.1:8000 
